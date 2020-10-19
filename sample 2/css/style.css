@@ -1,0 +1,58 @@
+.poster {
+    width: 1920px;
+}
+
+.t1 {
+    position: absolute;
+    width: 800px;
+    height: 250px;
+    top: -50px;
+    left: 564px;
+    display: none;
+}
+
+.t2 {
+    position: absolute;
+    width: 800px;
+    height: 250px;
+    top: 138px;
+    left: 564px;
+    display: none;
+    
+}
+
+.t3 {
+    position: absolute;
+    width: 800px;
+    height: 250px;
+    top: 312px;
+    left: 564px;
+    display: none;
+}
+
+.t4 {
+    position: absolute;
+    width: 800px;
+    height: 250px;
+    top: 508px;
+    left: 564px;
+    display: none;
+}
+
+.t5 {
+    position: absolute;
+    width: 800px;
+    height: 250px;
+    top: 670px;
+    left: 564px;
+    display: none;
+}
+
+.t6 {
+    position: absolute;
+    width: 800px;
+    height: 250px;
+    top: 856px;
+    left: 564px;
+    display: none;
+}
